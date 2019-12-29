@@ -12,6 +12,8 @@
 
     <title>Jared Dunham</title>
 
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -35,23 +37,116 @@
 
 <body>
 
-<div class="master">
-    <h1 style="font-size: 80px;cursor: default;">
-        Jared
-    </h1>
+<div style="padding-bottom: 15%;background: #456552;background-image: linear-gradient(#275439, #477157);">
+
     <div>
-        <a href="https://www.linkedin.com/in/dunhamjared/" class="btn btn-nature btn-xs">LinkedIn</a>
-        <a href="https://twitter.com/bluej130" class="btn btn-nature btn-xs">Twitter</a>
+        <div class="container">
+
+            <!-- Static navbar -->
+            <nav class="navbar">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="/">Jared</a>
+                    </div>
+                    <div id="navbar" class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="mailto:contact@djared.com">Contact</a></li>
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div><!--/.container-fluid -->
+            </nav>
+
+        </div>
     </div>
+
+</div>
+
+<div class="container" style="    margin-top: -25px; margin-bottom: 5%">
+
+    <div style="margin-top: -15%;">
+        <img src="img/me.png" style="width: 100%;max-width: 300px;margin: 0 auto;display: block;">
+    </div>
+    <div style="padding: 2% 5% 5% 5%;">
+        <div class="row">
+            <div class="col-md-4">
+                <h1>About</h1>
+                <div class="text-body">
+                    <p>I'm an experienced full stack developer with a demonstrated history of working in the automotive industry.</p>
+                    <p>I work with:</p>
+                    <ul>
+                        <li>PHP</li>
+                        <li>JavaScript</li>
+                        <li>jQuery</li>
+                        <li>MySQL & SQL Server</li>
+                        <li>Elasticsearch</li>
+                    </ul>
+                    <p>Frameworks:</p>
+                    <ul>
+                        <li>Handlebars</li>
+                        <li>Bootstrap</li>
+                        <li>Laravel/Lumen</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h1>Projects</h1>
+                <div class="text-body">
+                    <p>Open source projects I have contributed to:</p>
+                    <ul>
+                        <li><a href="https://github.com/laravel/framework" target="_blank">laravel/framework</a></li>
+                        <li><a href="https://github.com/laravel/lumen-framework" target="_blank">laravel/lumen-framework</a></li>
+                        <li><a href="https://github.com/sofadesign/limonade" target="_blank">sofadesign/limonade</a></li>
+                        <li><a href="https://github.com/ajfisher/node-pixel" target="_blank">ajfisher/node-pixel</a></li>
+                        <li><a href="https://github.com/dracula/notepad-plus-plus" target="_blank">dracula/notepad-plus-plus</a></li>
+                        <li><a href="https://github.com/openautodata/vehicles" target="_blank">openautodata/vehicles</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h1>Hobbies</h1>
+                <div class="text-body">
+                    <p>Some of my personal hobbies include:</p>
+                    <ul>
+                        <li>Vintage Arcade Machines</li>
+                        <li>Pinball</li>
+                        <li>Social Robotics</li>
+                        <li>3D Printing</li>
+                        <li>Mountain Biking</li>
+                        <li>Dance Dance Revolution</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <h1 style="text-align: center">Social</h1>
+        <div style="text-align: center;font-size: 25px;margin: 0 auto;max-width: 300px;">
+            <a href="https://twitter.com/bluej130"><i class="fa fa-twitter fa-fw"></i></a>
+            <a href="https://stackoverflow.com/users/3208151/jared-dunham?tab=profile"><i class="fa fa-stack-overflow fa-fw"></i></a>
+            <a href="https://github.com/dunhamjared"><i class="fa fa-github fa-fw"></i></a>
+            <a href="https://www.linkedin.com/in/dunhamjared/"><i class="fa fa-linkedin fa-fw"></i></a>
+        </div>
+    </div>
+
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/vivus@latest/dist/vivus.min.js"></script>
 
 <script>
-
-
-
+    new Vivus('svg-name', {
+        type: 'delayed',
+        duration: 200,
+        animTimingFunction: Vivus.EASE,
+        pathTimingFunction: Vivus.EASE_OUT
+    });
 </script>
 
 
