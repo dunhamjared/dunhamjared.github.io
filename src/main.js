@@ -11,6 +11,6 @@ createApp(App)
     .use(store)
     .use(router)
     .use(gtag, {
-        config: { id: "UA-142052445-1" }
+        config: { id: "G-RJ6HR8J6YZ" }
     }, router)
     .mount('#app')
