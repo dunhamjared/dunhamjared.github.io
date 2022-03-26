@@ -1,0 +1,65 @@
+
+// main
+@import "variables";
+@import "animations";
+
+// goodies
+@import "bootstrap/scss/bootstrap";
+@import "line-awesome/dist/line-awesome/css/line-awesome.css";
+
+// outsiders
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap');
+
+// ~~~~~~~~~~~~~~~~~~~~ //
+
+// main app container
+#app {
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  color: #2d2d2d;
+}
+
+// custom bg colors
+.jd-bg-blue-light {background: scale-color($jd-blue, $lightness: 90%);}
+.jd-bg-blue-gradient {background: linear-gradient(scale-color($jd-blue, $lightness: 80%), transparent);}
+.jd-bg-green-light {background: scale-color($jd-green, $lightness: 90%);}
+.jd-bg-green-gradient {background: linear-gradient(scale-color($jd-green, $lightness: 80%), transparent);}
+.jd-bg-grey-light {background: scale-color($jd-grey, $lightness: 90%);}
+.jd-bg-grey-gradient {background: linear-gradient(scale-color($jd-grey, $lightness: 80%), transparent);}
+
+// tech backgrounds
+
+$bg-tech-lightness: 85%;
+
+.jd-tech-php{background: scale-color($tech-php, $lightness: $bg-tech-lightness)!important;}
+.jd-tech-js{background: scale-color($tech-js, $lightness: $bg-tech-lightness)!important;}
+.jd-tech-vue{background: scale-color($tech-vue, $lightness: $bg-tech-lightness)!important;}
+.jd-tech-laravel{background: scale-color($tech-laravel, $lightness: $bg-tech-lightness)!important;}
+.jd-tech-mysql{background: scale-color($tech-mysql, $lightness: $bg-tech-lightness)!important;}
+.jd-tech-elastic{background: scale-color($tech-elastic, $lightness: $bg-tech-lightness)!important;}
+.jd-tech-jquery{background: scale-color($tech-jquery, $lightness: $bg-tech-lightness)!important;}
+.jd-tech-handlebars{background: scale-color($tech-handlebars, $lightness: $bg-tech-lightness)!important;}
+
+// custom highlight colors
+.jd-highlight-blue-light {background: scale-color($jd-blue, $lightness: 70%);}
+.jd-highlight-green-light {background: scale-color($jd-green, $lightness: 70%);}
+
+// custom fill colors
+.jd-fill-blue {fill: $jd-blue;}
+.jd-fill-green {fill: $jd-green;}
+.jd-fill-grey {fill: $jd-grey;}
+.jd-fill-black {fill: $jd-black;}
+
+// icon formatting
+.jd-icon {
+  font-size: 2.5rem;
+  line-height: 0;
+  margin-bottom: 1rem;
+}
+
+// custom transforms
+.rotate-n45 {
+  transform: rotate(-45deg)
+}

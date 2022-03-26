@@ -1,593 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1695fa55-cbef-4972-855e-6891cb57a48d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/the-big-picture.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/the-big-picture.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="3e3e2354-1624-401a-994f-bc5a18b02c00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.vue" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>blinking</find>
-      <find>reset();</find>
-      <find>data-robot-emotion</find>
-      <find>data-robot-value</find>
-      <find>.btn-nature</find>
-      <find>stroke-width:3;</find>
-      <find>master</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>robot.action.reset();</replace>
-      <replace>data-robot-value</replace>
-      <replace>data-value</replace>
-      <replace>stroke-width:3px;</replace>
-    </replaceStrings>
+    <execution />
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1PZqfPmfjh70LBBL9lZcfNJCN03" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26vgnYVkjhEXBmUsn6YdCL1BnV9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RestClientSettings">
-    <option name="REQUEST_HISTORY">
-      <list>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="g3-beta.grindr.com" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC4955BCDF84D5611A57223A4B8C4E7FD0BD69AA450E9D237731638F142E5680606BEFA84F482931817ADE6EE0D735FEE5AE" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v3/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="g3-beta.grindr.com" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC4955BCDF84D5611A57223A4B8C4E7FD0BD69AA450E9D237731638F142E5680606BEFA84F482931817ADE6EE0D735FEE5AE" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v3/managed-fields" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://g3-beta.grindr.com" />
-          <option name="urlPath" value="/" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v3" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v3.1" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v3/" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v4/bootstrap" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="AWSELB" />
-                <option name="path" value="/" />
-                <option name="value" value="9979D9E916D4BFADCFF7F07785DF15B94C359FBC49117F57377DBE82DFC88DDF347F13FC5869AA450E9D237731638F142E5680606B7BA754B9847347BC628E6DBFDE213C39" />
-              </Biscuit>
-              <Biscuit>
-                <option name="date" value="1536720367000" />
-                <option name="domain" value="grindr.mobi" />
-                <option name="name" value="__cfduid" />
-                <option name="path" value="/" />
-                <option name="value" value="d59773837a2ced741d2b6f4100c31e9da1505184367" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v3/bootstrap" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="User-Agent" />
-                <option name="value" value="grindr3/3.0.1.4529;4529;Unknown;Android 4.4.4" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://grindr.mobi" />
-          <option name="urlPath" value="/v3/bootstrap" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-      </list>
-    </option>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="js.build_tools.gulp">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1695fa55-cbef-4972-855e-6891cb57a48d" name="Default" comment="" />
-      <created>1496593392493</created>
+      <changelist id="3e3e2354-1624-401a-994f-bc5a18b02c00" name="Changes" comment="" />
+      <created>1648309643188</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1496593392493</updated>
-      <workItem from="1496593393645" duration="3085000" />
-      <workItem from="1496616450463" duration="7021000" />
-      <workItem from="1505184352485" duration="1128000" />
-      <workItem from="1507077619474" duration="24000" />
-      <workItem from="1514686903387" duration="411000" />
-      <workItem from="1514687431881" duration="764000" />
-      <workItem from="1516415127670" duration="3016000" />
-      <workItem from="1525735290381" duration="277000" />
-      <workItem from="1525735572570" duration="2183000" />
-      <workItem from="1525750025099" duration="484000" />
-      <workItem from="1530716900575" duration="2704000" />
-      <workItem from="1537039125875" duration="812000" />
-      <workItem from="1549827519094" duration="287000" />
-      <workItem from="1560013595454" duration="4385000" />
-      <workItem from="1560026563602" duration="4518000" />
-      <workItem from="1566092073841" duration="1389000" />
-      <workItem from="1569181320159" duration="544000" />
-      <workItem from="1569182579037" duration="107000" />
-      <workItem from="1577639348234" duration="1070000" />
+      <updated>1648309643188</updated>
+      <workItem from="1648309644602" duration="1196000" />
     </task>
+    <task id="LOCAL-00001" summary="removed built files">
+      <created>1648310164121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648310164121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed built files" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed built files" />
   </component>
 </project>
