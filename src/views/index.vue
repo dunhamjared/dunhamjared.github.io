@@ -8,8 +8,8 @@
                         Jared
                     </div>
                     <div class="align-self-center col mb-3 mb-md-0">
-                        Full Stack Developer<br>Team Project Lead<br>
-                        Freelance Developer & Consultant
+                        Full Stack Developer
+                       
                     </div>
                     <div class="col-12 col-md-1">
                 
