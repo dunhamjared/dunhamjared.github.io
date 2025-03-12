@@ -2,9 +2,11 @@
     import logo from "$lib/assets/logo.webp"
 </script>
 
-<div class="flex flex-col justify-center items-center h-screen">
-    <div class="flex flex-col md:flex-row items-center w-full max-w-3xl">
-        <div class="w-full md:w-6/12 flex justify-center p-10">
+<div class="flex flex-col justify-center items-center h-screen px-10">
+    <div
+        class="flex flex-col md:flex-row items-center w-full gap-x-20 gap-y-5 max-w-3xl"
+    >
+        <div class="w-full md:w-6/12 flex justify-center">
             <img
                 src={logo}
                 alt="profile"
@@ -13,10 +15,10 @@
             />
         </div>
         <div
-            class="w-full md:w-6/12 flex flex-col items-center md:items-start px-8 md:text-left"
+            class="w-full md:w-6/12 flex flex-col items-center md:items-start md:text-left"
         >
-            <h1 class="text-4xl font-bold">Jared Dunham</h1>
-            <div class="text-sm font-bold text-gray-400">
+            <h1 class="text-4xl font-bold text-center">Jared Dunham</h1>
+            <div class="text-sm font-bold text-center text-gray-400">
                 <div>Developer and Maker</div>
             </div>
             <div>
@@ -38,7 +40,7 @@
                 </div>
             </div>
 
-            <div class="mt-5 flex gap-3">
+            <div class="mt-7 flex gap-3">
                 <a
                     href="https://www.linkedin.com/in/dunhamjared/"
                     title="GitHub"
@@ -70,7 +72,7 @@
                     >
                 </a>
             </div>
-            <div class="mt-5">
+            <div class="mt-3">
                 <div class="text-sm opacity-75">Contact me at:</div>
                 <a
                     href="mailto:hello@djared.com"
