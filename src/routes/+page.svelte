@@ -4,8 +4,13 @@
 
 <div class="flex flex-col justify-center items-center h-screen">
     <div class="flex flex-col md:flex-row items-center w-full max-w-3xl">
-        <div class="w-full md:w-6/12 flex justify-center">
-            <img src={logo} alt="profile" class="w-sm rounded-full p-10" />
+        <div class="w-full md:w-6/12 flex justify-center p-10">
+            <img
+                src={logo}
+                alt="profile"
+                class="w-sm rounded-full"
+                style="box-shadow: 0 0 0 1px #ffffff36, 0 58px 20px -39px #5c919d33, 0 -18px 20px -2px #3c524985;"
+            />
         </div>
         <div
             class="w-full md:w-6/12 flex flex-col items-center md:items-start px-8 md:text-left"
