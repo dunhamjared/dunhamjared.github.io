@@ -12,6 +12,8 @@
                 alt="profile"
                 class="w-sm rounded-full"
                 style="box-shadow: 0 0 0 1px #ffffff36, 0 58px 20px -39px #5c919d33"
+                width="683"
+                height="683"
             />
         </div>
         <div
