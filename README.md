@@ -1,19 +1,26 @@
-# Personal Website
+# sv
 
-## Setup
-```
-npm install
+Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+
+## Developing
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
 ```
 
-## Development
-```
-npm run serve
-```
+## Building
 
-## Production
-```
+To create a production version of your app:
+
+```bash
 npm run build
-git add dist && git commit -m "Initial dist subtree commit"
-git subtree push --prefix dist origin gh-pages
-git push origin `git subtree split --prefix dist main`:gh-pages --force
 ```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
