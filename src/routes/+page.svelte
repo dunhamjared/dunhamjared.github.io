@@ -1,7 +1,7 @@
 <script lang="ts">
     import logo from "$lib/assets/logo.webp"
     import qrcode from "$lib/assets/qr-code.svg?raw"
-    let showDetails = $state(true)
+    let showDetails = $state(false)
 </script>
 
 <div class="flex flex-col justify-center items-center h-screen px-10">
